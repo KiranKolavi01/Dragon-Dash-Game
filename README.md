@@ -34,12 +34,9 @@ This is a fun, browser-based, side-scrolling game inspired by the classic dinosa
    - You can simply double-click `index.html` or use a local server like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in VS Code for best experience.
 
 ## 📸 Screenshots
+![Game Start](https://github.com/user-attachments/assets/568567b5-0d62-421e-8a99-d2552090535d)
+![Game Over](https://github.com/user-attachments/assets/3aeb7d8e-bccc-44e8-8c1e-b7ad19ab1ac9)
 
-_Add a screenshot here! (e.g., paste an image into the repo and link it below)_
-
-```
-![Gameplay Screenshot](./screenshot.png)
-```
 
 ## 🎵 Assets
 
